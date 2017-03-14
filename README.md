@@ -17,6 +17,8 @@ this is a simple change teste tetesdsa
 
 #how to contribute
 
+Please fork this repository
+
 ### Copyright
 
 2017 - Git. Training - Wagner
