@@ -16,3 +16,7 @@ this is a simple change teste tetesdsa
 
 
 #how to contribute
+
+### Copyright
+
+2017 - Git. Training - Wagner
