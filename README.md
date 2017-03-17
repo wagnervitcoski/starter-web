@@ -21,4 +21,4 @@ Please fork this repository
 
 ### Copyright
 
-2017 - Git. Training - Wagner
+2017 - Git. Training - Wagner - All rights reserved
